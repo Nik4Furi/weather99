@@ -1,7 +1,8 @@
 # <h1 id="weather99"> weather99 🌡️ </h1>
 ### Status of weathers
-**weather99**, is a platform where users can see the status of weather upto 5 days forecast, also they can filter out the city wise data
-*Live at->*
+**weather99**, is a platform where users can see the status of weather upto 5 days forecast, also they can filter out the city wise data.
+
+*Live at-> [weather99](https://weather99.vercel.app/)*
 
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
