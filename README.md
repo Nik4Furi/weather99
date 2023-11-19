@@ -13,7 +13,6 @@
 
 ## <h2 id="badges" >Badges </h2>
 
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nik4Furi/weather99?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Nik4Furi/weather99?style=social)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Nik4Furi/weather99)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nik4Furi/weather99?style=flat-square) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Nik4Furi/weather99) 
@@ -26,10 +25,7 @@
 
     
 <p text-align=left>
-  <img src="" width="500" height="" alt="home"/>
-    
-    
-  <img src="" width="500" height="" alt="home"/>  
+  <img src="https://github.com/Nik4Furi/weather99/assets/91304976/b02baaf7-a04a-4efa-8f8f-a9f666fe367a" width="500" height="" alt="home"/>
 
 </p>
 
